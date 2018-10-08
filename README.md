@@ -1,3 +1,11 @@
+# Projets day1 week 2
+## Quentin Potié, en collaboration avec Kenadi S.
+## Très bonne journée à toi !
+
+
+
+
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
